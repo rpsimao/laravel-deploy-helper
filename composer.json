@@ -1,5 +1,5 @@
 {
-  "name": "daltcore/laravel-deploy-helper",
+  "name": "rpsimao/laravel-deploy-helper",
   "description": "Helper for Laravel to deploy from artisan",
   "keywords": [
     "laravel",
